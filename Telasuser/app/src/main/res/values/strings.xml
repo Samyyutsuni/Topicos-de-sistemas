@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Telasuser</string>
+
+    <string name="action_sttings">Telasuser</string>
+
+    <string name="mensagem">"ola mundo"</string>
+</resources>
